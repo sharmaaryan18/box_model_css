@@ -1,6 +1,17 @@
-.box{
-    height: 200px;
+.box {
+    height: 100px;
     width: 200px;
-    color: aqua;
+    border:5px solid rgb(249, 245, 245);
+    padding: 25px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+#ab{
     background-color: orange;
+}
+#bc{
+    background-color:Red;
+}
+#ca{
+    background-color:rgb(162, 191, 118);
 }
